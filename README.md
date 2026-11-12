@@ -6,7 +6,7 @@
 
 Моя стихия — JavaScript, TypeScript и Vue. Мне интересно делать сложные данные понятными, оживлять интерфейсы и находить изящные решения там, где сначала виден только клубок требований.
 
-**[Посмотреть портфолио ↗](https://focusinfo.ru/portfolio) · [Заглянуть на мой сайт ↗](https://focusinfo.ru)**
+**<a href="https://focusinfo.ru/portfolio" target="_blank" rel="noopener noreferrer">Посмотреть портфолио ↗</a> · <a href="https://focusinfo.ru" target="_blank" rel="noopener noreferrer">Заглянуть на мой сайт ↗</a>**
 
 ## Что я создаю
 
@@ -19,11 +19,11 @@
 
 ## Мой рабочий набор
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![TypeScript](./assets/typescript.svg)
+![JavaScript](./assets/javascript.svg)
+![Vue](./assets/vue.svg)
+![Nuxt](./assets/nuxt.svg)
+![Node.js](./assets/nodejs.svg)
 
 | Задача | Инструменты |
 | --- | --- |
@@ -38,11 +38,11 @@
 
 Лучше один раз попробовать: мои работы живут за пределами скриншотов.
 
-- **[Портфолио](https://focusinfo.ru/portfolio)** — отправная точка для знакомства с моими работами.
-- **[Focusinfo](https://focusinfo.ru)** — мой сайт и точка входа в проекты.
+- **<a href="https://focusinfo.ru/portfolio" target="_blank" rel="noopener noreferrer">Портфолио</a>** — отправная точка для знакомства с моими работами.
+- **<a href="https://focusinfo.ru" target="_blank" rel="noopener noreferrer">Focusinfo</a>** — мой сайт и точка входа в проекты.
 
 ## Давайте сделаем что-нибудь невероятное
 
 Люблю идеи, от которых сначала любопытно, а потом уже невозможно оторваться от реализации. Если у вас есть такая — буду рад познакомиться и обсудить, как превратить её в живой проект.
 
-**[Мой сайт ↗](https://focusinfo.ru) · [Портфолио ↗](https://focusinfo.ru/portfolio)**
+**<a href="https://focusinfo.ru" target="_blank" rel="noopener noreferrer">Мой сайт ↗</a> · <a href="https://focusinfo.ru/portfolio" target="_blank" rel="noopener noreferrer">Портфолио ↗</a>**
