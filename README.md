@@ -1,10 +1,48 @@
-- 👋 Hi, I’m @Turmag
-- 👀 I’m interested in programming in JS
-- 🌱 I’m currently learning Vue
-- 💞️ I’m looking to collaborate on something
-- 📫 How to reach me? You can do it!
+# Привет, я Павел 👋
 
-<!---
-Turmag/Turmag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Frontend-разработчик. Превращаю сложные задачи в интерфейсы, которыми приятно пользоваться.**
+
+Создаю проекты, в которых есть за что зацепиться: интересная идея, выразительная графика, продуманные детали. Люблю момент, когда смелое «а что, если?» становится работающим продуктом — и его уже можно открыть в браузере.
+
+Моя стихия — JavaScript, TypeScript и Vue. Мне интересно делать сложные данные понятными, оживлять интерфейсы и находить изящные решения там, где сначала виден только клубок требований.
+
+**[Посмотреть портфолио ↗](https://focusinfo.ru/portfolio) · [Заглянуть на мой сайт ↗](https://focusinfo.ru)**
+
+## Что я создаю
+
+- **Интерфейсы, которые помогают разобраться.** Дашборды, таблицы и графики: от массива данных до понятной картины и нужного действия.
+- **Веб-приложения с характером.** Продуманные сценарии, отзывчивое взаимодействие и детали, которые хочется замечать.
+- **Браузерные расширения.** Полезные инструменты рядом с привычными сайтами — меньше рутины, больше возможностей.
+- **Интерактивную графику и карты.** Когда идею лучше показать, дать покрутить, приблизить и исследовать самому.
+
+Для меня классный проект складывается из двух ощущений: «ого, так можно было?» при знакомстве и «как же удобно» при ежедневном использовании. Именно такие проекты я люблю делать.
+
+## Мой рабочий набор
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+
+| Задача | Инструменты |
+| --- | --- |
+| Состояние и сборка | Pinia, Vuex, Vite, Webpack |
+| Интерфейсы и стили | Tailwind CSS, Sass, Storybook |
+| Качество и проверка | Vitest, Jest, Playwright, код-ревью, рефакторинг |
+| Данные и обновления в реальном времени | AG Grid, ECharts, ApexCharts, WebSocket, Socket.io |
+| Графика и карты | Three.js, PixiJS, Canvas, OpenLayers, Leaflet |
+| Браузерные расширения | WXT |
+
+## Проекты, которые можно открыть
+
+Лучше один раз попробовать: мои работы живут за пределами скриншотов.
+
+- **[Портфолио](https://focusinfo.ru/portfolio)** — отправная точка для знакомства с моими работами.
+- **[Focusinfo](https://focusinfo.ru)** — мой сайт и точка входа в проекты.
+
+## Давайте сделаем что-нибудь невероятное
+
+Люблю идеи, от которых сначала любопытно, а потом уже невозможно оторваться от реализации. Если у вас есть такая — буду рад познакомиться и обсудить, как превратить её в живой проект.
+
+**[Мой сайт ↗](https://focusinfo.ru) · [Портфолио ↗](https://focusinfo.ru/portfolio)**
