@@ -20,7 +20,6 @@
 ## Мой рабочий набор
 
 ![TypeScript](./assets/typescript.svg)
-![JavaScript](./assets/javascript.svg)
 ![Vue](./assets/vue.svg)
 ![Nuxt](./assets/nuxt.svg)
 ![Node.js](./assets/nodejs.svg)
